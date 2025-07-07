@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# PyCharm files
+.idea/
+
+# Python cache
+__pycache__/
+
+# Large generated files
+large_corpus.txt
+training_batch_*.txt
+!datasets/training_batch_full.txt
+*.json
+
+# report
+CORK_LongtaoZhang_202507.zip
+CORK_report.pdf

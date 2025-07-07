@@ -1,0 +1,24 @@
+Input: 843 78425 27696 369 58677 6837 843 5299 364
+Output: the quick brown fox jumps over the lazy dog
+---
+Input: 8447 47 746753 3926753 63 3645474 8398
+Output: this is simple example of english text
+---
+Input: 6224463 53276464 47 638463 63 3282 26259747 8428 288662837 2625984225 66335 28453464
+Output: machine learning is method of data analysis that automates analytical model building
+---
+Input: 6288725 52648243 7762377464 47 272624 63 2784342425 468355443623 8428 43577 266788377 8633778263 48626 52648243
+Output: natural language processing is branch of artificial intelligence that helps computers understand human language
+---
+Input: 53926273 9484 6659 843 867 769 96853 23 24255364464 86 873 367 897464
+Output: keyboard with only the top row would be challenging to use for typing
+---
+Input: 843 22683 73683623 336667872837 843 7762536 93 273 879464 86 76583
+Output: the above sentence demonstrates the problem we are trying to solve
+---
+Input: 8324665649 427 23826233 7446434226859 46 732368 93277
+Output: technology has advanced significantly in recent years
+---
+Input: 2666864228466 8476844 3444825 3384237 427 232663 377368425
+Output: communication through digital devices has become essential
+---

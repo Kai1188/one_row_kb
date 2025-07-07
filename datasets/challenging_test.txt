@@ -1,0 +1,1500 @@
+Input: 426 4637 23837 4444 363 737837 627538 426 47 625464
+Output: ibm goes after high end server market ibm is making
+---
+Input: 28557 333328 846237965837 27 27 766543 236
+Output: bulls defeat timberwolves ap ap rookie ben
+---
+Input: 583437 7853 367 62337 46 35328466 26678 367 2874 7388377
+Output: judges rule for nader in election boost for bush reuters
+---
+Input: 7868 968 226
+Output: quot you can
+---
+Input: 843 6867837 359
+Output: the munster fly
+---
+Input: 2874 83557 78846 63 336627229
+Output: bush tells putin of democracy
+---
+Input: 78326 4683766368 32737 737874284667 66 243 9675 843 4683766368 7243
+Output: sudan government eases restrictions on aid work the government said
+---
+Input: 843 7426866 78625 77548 26678
+Output: the phantom stock split boost
+---
+Input: 84653623 774537 46 76884376 23442647826
+Output: violence spikes in southern afghanistan
+---
+Input: 288 7335 86337 843 4663 7383257 26 27729 63 247663 226478377 46 75223 63 843
+Output: but peek under the hood reveals an array of chrome canisters in place of the
+---
+Input: 28 7827537 236837
+Output: at staples center
+---
+Input: 4592 742225546 843 776537626 367 7877426 367237
+Output: ilya shabalkin the spokesman for russian forces
+---
+Input: 788626 2887 6673 78233377 788626
+Output: putnam cuts more staffers putnam
+---
+Input: 6463 263437 36863 46 226286
+Output: nine bodies found in cancun
+---
+Input: 8439 274833 8428
+Output: they argued that
+---
+Input: 7763487 273 87 28 347639
+Output: profits are up at disney
+---
+Input: 364433 279464 56937 47 546533
+Output: dogged crying lower iq linked
+---
+Input: 276863 843 96753 84733 87 76534377 9373
+Output: around the world three us soldiers were
+---
+Input: 4377273 7387 744487
+Output: gerrard sets sights
+---
+Input: 27753 488637 382233 747 633 367 27487 843 96753 34778 5344846283 68742 36965623 7378423 27753
+Output: apple itunes dubbed rip off for brits the world first legitimate music download service apple
+---
+Input: 4686 843 86749 46339 7787733 289464 46
+Output: into the topix index spurred buying in
+---
+Input: 84397 7388377 7388377 782547437 263
+Output: views reuters reuters publisher and
+---
+Input: 3337 7297 4727 35328466 46
+Output: feds says iraq election in
+---
+Input: 7668464 92687 2378 9378 463437
+Output: ponting wants best west indies
+---
+Input: 365527 7247 66 668 5627 34727764686368 639
+Output: dollar sags on nov jobs disappointment new
+---
+Input: 226474464 2355 7464377 82537 8655 843 54645464
+Output: banishing bell ringers takes toll the jingling
+---
+Input: 7256663 263 642767638
+Output: palmone and microsoft
+---
+Input: 86 5337 736753 3766 2226366464 88 367
+Output: to keep people from abandoning tv for
+---
+Input: 843 62846625 787839 66 3784 873 263
+Output: the national survey on drug use and
+---
+Input: 287872542 738 46342 86 946 732663 8378 776787 46342 2742538 2436624 628 326436 627896 2722533
+Output: australia set india to win second test sports india cricket chennai oct damien martyn cracked
+---
+Input: 638 6397 98753 63342 94424 26664 68437 844647 262787 487 7868 727863733 9484 843 872769
+Output: net news wurld media which among other things boasts its quot partnered with the usarmy
+---
+Input: 843 2378 8697 366 2663
+Output: the best toys don come
+---
+Input: 7726474 63337 86536 63 734738 843 7726474 36682255 3333728466 533
+Output: spanish offer token of regret the spanish football federation led
+---
+Input: 868464 25664 72789 54637 35328466 8463 47 26 278 62227466 367 7335328464 66 9428 76548424267
+Output: voting along party lines election time is an apt occasion for reflecting on what politicians
+---
+Input: 92466 75267 86 2278473 6874262824
+Output: yahoo plans to acquire musicmatch
+---
+Input: 2668437 26374226 23432333 2244323 7378
+Output: another american beheaded baghdad sept
+---
+Input: 58 4733 4887
+Output: lt href http
+---
+Input: 96753 266686489 4743 73357 86 4276377 868733 266788377 426 263 633424257 3766 5323464 7243623 338228466
+Output: world community grid seeks to harness unused computers ibm and officials from leading science education
+---
+Input: 63342 9474 5478
+Output: media wish list
+---
+Input: 843 528378 9255626 68742 752937 86 363743 3766 84347 96757467 73367 86 23 492743 63
+Output: the latest walkman music player to emerge from their workshop seems to be hybrid of
+---
+Input: 4363 946 427 77368 843 7278 3687
+Output: gene who has spent the past four
+---
+Input: 58 3668 3223
+Output: lt font face
+---
+Input: 7246527 34778837 25246 46 4225464 288225 84748464 7246527 94673 26678837
+Output: scholar disputes claim in hacking attack visiting scholar whose computer
+---
+Input: 76443 44837 867
+Output: rogge gives top
+---
+Input: 2455466 4678453 82536837 2883678 367 74825 7367537638
+Output: billion hostile takeover attempt for rival peoplesoft
+---
+Input: 387673 39732833 86 24733 86 3325 367 7367537638 843 38767326
+Output: europe expected to agree to deal for peoplesoft the european
+---
+Input: 645 774237 263 3784 723389 26663687 7363
+Output: oil prices and drug safety comments send
+---
+Input: 769355 7297 43 966 786 367 633423 27 27 732738279 63 78283 26546 769355 7243
+Output: powell says he won run for office ap ap secretary of state colin powell said
+---
+Input: 26 27 326 252467 46 6443742 566366 284878 639 7284647
+Output: bn as eco claims in nigeria london august new ratings
+---
+Input: 54657 7336 46 84338 63
+Output: kinks seen in theft of
+---
+Input: 66784 56732 25246 22688 6978374687 25278 64448 23 8783 73685
+Output: north korea claim about mysterious blast might be true seoul
+---
+Input: 2436 8697 86 77377 367 86 243
+Output: chen vows to press for un bid
+---
+Input: 24324367 8683 86 7375223 773743368 27 27
+Output: chechens vote to replace president ap ap
+---
+Input: 22623426 96636 462539
+Output: canadian women hockey
+---
+Input: 38 86 7425 87 4253 28 327387 822 843 38767326
+Output: eu to pick up half au darfur tab the european
+---
+Input: 645 774237 3325463 7427759 645 774237 3355
+Output: oil prices decline sharply oil prices fell
+---
+Input: 843 96753 5274378 3266669 843
+Output: the world largest economy the
+---
+Input: 844377 27244 666763 322464 84338 242743 27 27 3387648 844377 6883435337 27244 666763 927 27737833
+Output: tigers craig monroe facing theft charge ap ap detroit tigers outfielder craig monroe was arrested
+---
+Input: 24462 72463255 33284 8655 28 843 33284
+Output: china rainfall death toll at the death
+---
+Input: 787742 2328 372623 86 946 487 34778 333 287 787742
+Output: russia beat france to win its first fed cup russia
+---
+Input: 843 96753 5274378
+Output: the world largest
+---
+Input: 666366426 722533 28 3467368462 3467368462 4283 722533 6262437 36454266 666366426
+Output: mondonico sacked at fiorentina fiorentina have sacked manager emiliano mondonico
+---
+Input: 263 47274 367237 94453 43 266743377 3676464 765484225 66836368 736467 25 7237 633424257 7243 666329
+Output: and iraqi forces while he considers forming political movement senior al sadr officials said monday
+---
+Input: 6694552 26853 3676 2273 63 466453 2769737
+Output: mozilla could form base of google browser
+---
+Input: 58 748 2767776237 86 3383567
+Output: lt pgt crossroads to develop
+---
+Input: 63667425 7378423 4666877 2254 8428467
+Output: memorial service honours bali victims
+---
+Input: 56225 722464 864237 24733 32767 4277362533 84733
+Output: local racing voices agree earns iassembled three
+---
+Input: 85 2667269 86 289 4636638 367 566366
+Output: uk company to buy infonet for london
+---
+Input: 843 96753 5274378
+Output: the world largest
+---
+Input: 288 533 93789663 2378246 63 447 75223 28 6255263 44557
+Output: but lee westwood certain of his place at oakland hills
+---
+Input: 48637337 66876 326 48637337 63
+Output: hundreds mourn fan hundreds of
+---
+Input: 639 9675 6246
+Output: new york main
+---
+Input: 672253 47 46 289464 6663 487 773743368
+Output: oracle is in buying mood its president
+---
+Input: 38 54387 87 726284667 26683787 82937 843
+Output: eu lifts us sanctions contests taxes the
+---
+Input: 226263426 845524377 328 2473 358
+Output: cambodian villagers eat bird flu
+---
+Input: 326437687 37847 843
+Output: dangerous drugs the
+---
+Input: 58 248 3275437 7634 7243 48 6333733
+Output: lt bgt earlier smfg said it offered
+---
+Input: 28453464 3375867 732724 6673 737766254928466
+Output: building desktop search more personalization
+---
+Input: 3532867283 6663 4273 86 42843 53779 27436
+Output: electorate mood hard to gauge kerry brien
+---
+Input: 7335464 447 732663 84853 63
+Output: seeking his second title of
+---
+Input: 642767638 78557 688 63 86 82557 46 26 6245 6377243 7368 666329 86 896 633424257
+Output: microsoft pulls out of un talks in an mail message sent monday to two officials
+---
+Input: 7328 629 23
+Output: seau may be
+---
+Input: 263 743 673633
+Output: and she opened
+---
+Input: 253742 83557 6454842 86 8876
+Output: cleric tells militia to turn
+---
+Input: 77 8326 423 487 283 22737 25673 28 4263 66
+Output: pr team had its cue cards close at hand on
+---
+Input: 827438 786737 8355 725828466 2769
+Output: target stores tell salvation army
+---
+Input: 58 248 347566287
+Output: lt bgt diplomats
+---
+Input: 2455466 3766 4664 5664 263 639 9675
+Output: billion from hong kong and new york
+---
+Input: 52726 5649864 86 737483353 2224638 66 666329 873283 52726 77463 64647837 586424476 5649864 9455 737483353
+Output: japan koizumi to reshuffle cabinet on monday update japan prime minister junichiro koizumi will reshuffle
+---
+Input: 38 92687 244 288 46
+Output: eu wants big cut in
+---
+Input: 722377 966 266759 9484 765423
+Output: pacers won comply with police
+---
+Input: 89 562533 46 86844 82557 27 9276464
+Output: vw locked in tough talks as warning
+---
+Input: 5278 64448 8439 3767733 33247466
+Output: last night they dropped decision
+---
+Input: 426 263 3463 929 86 4677683 2447
+Output: ibm amd find way to improve chip
+---
+Input: 3567432 626 34537
+Output: florida man files
+---
+Input: 2732 36446337 927 46 28 843 78278 63 843 77223 7223 629463 7868 629 7868
+Output: area engineer was in at the start of the space race maxime quot max quot
+---
+Input: 663 64448 668 84465 3472787687
+Output: one might not think disastrous
+---
+Input: 447 529937 52637 276762426 7243 8428 54634 927 34448464 256647433 843 8254226 46 24845 927
+Output: his lawyer james brosnahan said that lindh was fighting alongside the taliban in civil war
+---
+Input: 367438 72747 72669 42779 86 23 282 843 35663 63 87233 786677 468658464 843 2827
+Output: forget paris sammy happy to be cub the flood of trade rumors involving the cubs
+---
+Input: 645 774237 7473 66 4328464 33277 645 774237 7473 24246
+Output: oil prices rise on heating fears oil prices rise again
+---
+Input: 24462 76937 87267337 76748483 7837
+Output: china power transfer positive step
+---
+Input: 6387 272837 236766 4387 448 7488688 747
+Output: mets braves benson gets hit shutout ris
+---
+Input: 8447 927 727859
+Output: this was partly
+---
+Input: 24464 72837 2378 367 5278 54647866 5262422 9484688 663 96753 287 782543437 86337 447 2358
+Output: ching saves best for last kingston jamaica without one world cup qualifier under his belt
+---
+Input: 758443346 662453 673728677 7335 444437
+Output: pluggedin mobile operators seek higher
+---
+Input: 7248388537 34625478 28 8447 9327 2878725426 6736 734933 843 4648428483 32759 263 27653 843 28787426
+Output: schuettler finalist at this year australian open seized the initiative early and broke the austrian
+---
+Input: 864837725 68742 7243 86 5423673 76647 27
+Output: universal music said to license songs ap
+---
+Input: 724665 4387 8459
+Output: school gets ugly
+---
+Input: 263 4687638237 639 2447 367
+Output: amd introduces new chip for
+---
+Input: 426 945688 946 96757 28 843 767546
+Output: ian wilmut who works at the roslin
+---
+Input: 63552374 6233 86 328 447 96737 48 47 87884 86483772559 225669533433 8428 5263 287836 927
+Output: mellberg made to eat his words it is truth universally acknowledged that jane austen was
+---
+Input: 7546633 3696 75297828466 52862433 35328766427 44268 7669
+Output: slimmed down playstation launched electronics giant sony
+---
+Input: 26638 7627433 4686 76884376 4376269 46 22 72747 237 26638 67 27837643 7627433 4686 663376
+Output: comet smashed into southern germany in bc paris afp comet or asteroid smashed into modern
+---
+Input: 9325 346474 927837 54667 7627464
+Output: weak finish wastes lions roaring
+---
+Input: 368287 6837 72777678 3223 72267 7374687 368287 273 724733 66
+Output: doubts over passport face scans serious doubts are raised on
+---
+Input: 827 58 3648
+Output: tbs lt emgt
+---
+Input: 642767638 73532737 73836 27484225 73287489 7282437 642767638 427 477833 836
+Output: microsoft releases seven critical security patches microsoft has issued ten
+---
+Input: 9436 968 73 8723464 7663 73287489 367
+Output: when you re trading some security for
+---
+Input: 6477453 7526 288
+Output: missile plan but
+---
+Input: 26259787 37846283 8428 266786377 3766 226232 86 24462 9455 7627
+Output: analysts estimate that consumers from canada to china will snap
+---
+Input: 843 96753 5274378 367378 77638287
+Output: the world largest forest products
+---
+Input: 658 248 66 933637329 7243 32764647 367 843 7378 63 96853 524 2877368 9255 787338
+Output: nlt agt on wednesday said earnings for the rest of would lag current wall street
+---
+Input: 627842 7839278 5245 63 7378378 4726833 58343 647426 4653626 233272286
+Output: martha stewart jail me request granted judge miriam goldman cedarbaum
+---
+Input: 8447 47 26224 946 8473283633 86 53283 447 8326 23837 3224 63 447 84733 78737
+Output: this is coach who threatened to leave his team after each of his three super
+---
+Input: 427747 782787 86 2567766 3466 427747 47 7529464 9484 6673 2663433623 263 48 746933 244
+Output: harris starts to blossom dion harris is playing with more confidence and it showed big
+---
+Input: 786648 46737 367 6463 3733
+Output: summit hopes for mine free
+---
+Input: 9658374637 946 78455
+Output: wolverines who still
+---
+Input: 843 247333 78724273
+Output: the agreed purchase
+---
+Input: 252753 73357 2582 9276 87 367 69 8378 793639 2878725426
+Output: clarke seeks club warm up for nz test sydney australian
+---
+Input: 7669 46 82557 86 7355
+Output: sony in talks to sell
+---
+Input: 2668398932 6227 6455466
+Output: contextweb nabs million
+---
+Input: 46 237243 3668 5669 663 7243 25423 728437 2527633 28
+Output: im afraid dont know one said alice rather alarmed at
+---
+Input: 2773625 386 46 372623 77823
+Output: arsenal duo in france squad
+---
+Input: 8439 729 843 3463464 26853 7446434226859 26678 843 4868 367 967537 239663 687 76527 797836
+Output: they say the finding could significantly boost the hunt for worlds beyond our solar system
+---
+Input: 786257 6736 444437 66 32666642
+Output: stocks open higher on economic
+---
+Input: 288 48 7243 374329 48 96853 23 9455464 86 3472877 843 76748466 2639 46 26
+Output: but it said friday it would be willing to discuss the position anew in an
+---
+Input: 627 7376783359 4683637 86 7447
+Output: nas reportedly intends to ship
+---
+Input: 7663 4837745527 9373 7243 86 23 34448464
+Output: some guerrillas were said to be fighting
+---
+Input: 28 7887 2355 74663 89478 66 7664 72537 7388377 7388377
+Output: at puts cell phone twist on song sales reuters reuters
+---
+Input: 6263259 786 78455 787664 66 672253 463696753 463696753 726 372624726 3377483 672253 787283442 7874 367
+Output: mcnealy sun still strong on oracle infoworld infoworld san francisco despite oracle strategic push for
+---
+Input: 843 5225 63 2655328483 2274246464 247336368 2389336
+Output: the lack of collective bargaining agreement between
+---
+Input: 426 633377 266726437 6668459 73287489 737678 426 666329 4687638233 73287489 7378423 8428 633377 2662473 6668459
+Output: ibm offers companies monthly security report ibm monday introduced security service that offers concise monthly
+---
+Input: 528426 4487 688
+Output: latham hits out
+---
+Input: 222673464 86 22732255 266647746637 283
+Output: according to baseball commissioner bud
+---
+Input: 3333725 26668642284667 2666477466 24247626 6424235 769355 75267 86 732666363 24648527
+Output: federal communications commission chairman michael powell plans to recommend cingular
+---
+Input: 46 732368 93277 34847466 22 83267 8428 4283 5678 25673 42637 86 56937 3243566 77647267
+Output: in recent years division aa teams that have lost close games to lower echelon programs
+---
+Input: 83927 762346873 742737 87 66 627538 33288 567 2643537 7388377
+Output: texas roadhouse shares up on market debut los angeles reuters
+---
+Input: 288 366 438 5678 76 63836 8428 6333 86 77363
+Output: but don get lost so often that need to spend
+---
+Input: 427 266753833 487
+Output: has completed its
+---
+Input: 262 2277 82537 246 28 427343 262
+Output: bob carr takes aim at hardie bob
+---
+Input: 232 662454937 267767283 3282 5282 76389273 77684337 73532737 7763828 33744633
+Output: bea mobilizes corporate data java software provider releases product designed
+---
+Input: 668 6659 343 843 263742267 3276 84347
+Output: not only did the americans earn their
+---
+Input: 3768448 46 9378 4768637 2628377 72724 263 866 487866 96779
+Output: drought in west grounds boaters sarah and tom huston worry
+---
+Input: 6453 2523787 6535
+Output: mike alberts oldl
+---
+Input: 86627 746853 3975246 949 84373 273 78455 34547466 9675377 46 4727 6624 335297 337 32764647
+Output: tomas should explain why there are still filipino workers in iraq nmci delays eds earnings
+---
+Input: 324734353 64774774774 78283 26224 7425 782672879 968536 873 843 2273623
+Output: fairfield mississippi state coach rick stansbury wouldn use the absence
+---
+Input: 2455466 86 397263
+Output: billion to expand
+---
+Input: 5872694 47227 4376269
+Output: kuranyi grabs germany
+---
+Input: 2874 25247 86 3472877 5433 23837 272328 7388377 7388377 773743368 2874 47 39732833 86 448326
+Output: bush blair to discuss life after arafat reuters reuters president bush is expected to givean
+---
+Input: 6455466 7765328 86
+Output: million project to
+---
+Input: 638 6397 2748246 266786377 27762428466 92687 86 5669 949 27753 2427437 487 85 87377 6673
+Output: net news britain consumers association wants to know why apple charges its uk users more
+---
+Input: 25278 46 725478264
+Output: blast in pakistani
+---
+Input: 47274 732357 53283
+Output: iraqi rebels leave
+---
+Input: 58 248 87 92775263 787825 84733 787732833
+Output: lt bgt us warplane struck three suspected
+---
+Input: 426 7297 48 792677 748257 46 539 8649 26678837 8378
+Output: ibm says it swamps rivals in key unix computer test
+---
+Input: 843 87 27776224 86 2546283 242643 84373 47 62567 86
+Output: the us approach to climate change there is major un
+---
+Input: 7372368 56937 23837 843 365527
+Output: percent lower after the dollar
+---
+Input: 843 369 56637
+Output: the dow jones
+---
+Input: 5225 724634353 843 7738439 63 676 732724 423 343342858 34778 329 9484 843 7483 46464
+Output: jack schofield the preview of msn search had difficult first day with the site going
+---
+Input: 642767638 736397 7874 4686 3683782466368 77638287 567 2643537 7388377 642767638
+Output: microsoft renews push into entertainment products los angeles reuters microsoft
+---
+Input: 724672879 776348 32557 29 27
+Output: sainsbury profit falls by as
+---
+Input: 4622533 742766 6784667 5464833 3377483 869 86 467536368 4292 58
+Output: hobbled sharon options limited despite vow to implement gaza lt
+---
+Input: 3377483 868464 86 7529 46 843 4674448
+Output: despite voting to play in the insight
+---
+Input: 87 365527 86337
+Output: us dollar under
+---
+Input: 27263 639 929
+Output: brand new way
+---
+Input: 93 5453 86 738 786 827438 53664647
+Output: we like to set run target jennings
+---
+Input: 28 53278 8428 843 4673 63 843
+Output: at least that the hope of the
+---
+Input: 266 263 26868464 36652684767958 8485348
+Output: com and counting foolanthropylt titlegt
+---
+Input: 3676852 663 744487 465337 237643 3225378663 4283 48 73774383 86845
+Output: formula one rights holder bernie ecclestone gave it reprieve until
+---
+Input: 455 46 25664 66 7824 74448 86 23 74696 288
+Output: ill go along no such sight to be shown but
+---
+Input: 58 3668 3223
+Output: lt font face
+---
+Input: 69 27 843 33235463 367
+Output: mw as the deadline for
+---
+Input: 33662728 92687 4444 26878 6664633 5478 27 27 773743368 2874 746853 2667858 9484 336627287 66
+Output: democrat wants high court nominee list ap ap president bush should consult with democrats on
+---
+Input: 23267 78487 534237837 64259 23267
+Output: adams quits leicester micky adams
+---
+Input: 367637 3567432 26224 766 9665
+Output: former florida coach ron zook
+---
+Input: 46342 7482437 5274647
+Output: india pitches kashmir
+---
+Input: 28778 642767638 765429 533 86 27484225 62457 33787828466 76389273 44268
+Output: burst microsoft policy led to critical mails destruction software giant
+---
+Input: 26259787 263 2328464
+Output: analysts amd beating
+---
+Input: 27326 22263667 6683
+Output: asean abandons move
+---
+Input: 843 528378483728466 63 263 2524369 7763828 5463 382233 28 77664737 867768433 84336 3683782466368 367 266786377
+Output: the latestiteration of amd alchemy product line dubbed au promises toprovide video entertainment for consumers
+---
+Input: 8398 63 773743368 2874 72346 2337377 27 27 8398 63
+Output: text of president bush radio address ap ap text of
+---
+Input: 46 23348466 86 84347 87825 93276679 7663 63342377 73776674253 367 73287464 3333725 284534647 28 843
+Output: in addition to their usual weaponry some officers responsible for securing federal buildings at the
+---
+Input: 786257 3255 66 645 369 3637 23569 639 9675 7388377 786257 33254633 66 666329 27
+Output: stocks fall on oil dow ends below new york reuters stocks declined on monday as
+---
+Input: 33582 86 288 5627 29 33582 247 54637 937837329 266686233 75267 86 288 87 86
+Output: delta to cut jobs by delta air lines yesterday announced plans to cut up to
+---
+Input: 567 2643537 7388377 2254367642 2773257 26878 427
+Output: los angeles reuters california appeals court has
+---
+Input: 7372368 46 66836237 27 843
+Output: percent in november as the
+---
+Input: 86423456 633377 46 4683767372245489 87377 63 843 3687 62567 26678637
+Output: voiceglo offers im interoperability users of the four major consumer
+---
+Input: 887539 6878 46273273 58737 744487
+Output: turkey must increase kurds rights
+---
+Input: 46837378 72837 263 7378587 3766 8324665649 2355938437 24726 7978367 462
+Output: interest rates and results from technology bellwether cisco systems inc
+---
+Input: 72737 747487 774239 3377483 469273
+Output: paper sirius pricey despite howard
+---
+Input: 645 39767837 367
+Output: oil exporter for
+---
+Input: 669 7469464 843 42522842 78676 4456 42924
+Output: now showing the galactic storm hilo hawai
+---
+Input: 46835 27764687 68355464
+Output: intel appoints otellini
+---
+Input: 266 26 4683762846625 8326 63 7243684787 427
+Output: com an international team of scientists has
+---
+Input: 676 36965623 7378423
+Output: msn download service
+---
+Input: 2427437 34533 46 72237 7478667 27295 836 736753 3483 722377
+Output: charges filed in pacer pistons brawl ten people five pacers
+---
+Input: 72834 765423 645482687 25274 46 2274825 749234 749234 7388377 72834 73287489 367237 22885464 9283 63
+Output: saudi police militants clash in capital riyadh riyadh reuters saudi security forces battling wave of
+---
+Input: 4726 86 26684683
+Output: iran to continue
+---
+Input: 33339 86 73729 86 87 4683766368 33339 26777 3977377 247 74477464 8648 427 2336 6733733
+Output: fedex to repay to us government fedex corps express air shipping unit has been ordered
+---
+Input: 58 248 33582 247 54637
+Output: lt bgt delta air lines
+---
+Input: 2455466 86 3676
+Output: billion to form
+---
+Input: 76527 736753 9455 6333 86
+Output: polar people will need to
+---
+Input: 58 248 27876666377 4283 7768833 896 6667837
+Output: lt bgt astronomers have spotted two monster
+---
+Input: 265 86 4483 2929 622333
+Output: aol to give away mcafee
+---
+Input: 769355 66 84733 628466 8687
+Output: powell on three nation tour
+---
+Input: 843 87 7877363 26878 97378533 937837329 9484 78378466 63 46837378 86 64554667 63 263742267 64733
+Output: the us supreme court wrestled yesterday with question of interest to millions of americans mired
+---
+Input: 642767638 63342 752937 74647 639 8863 48 2629464 86 733
+Output: microsoft media player sings new tune it amazing to see
+---
+Input: 737678 5247 5328464 29324 8326
+Output: report jagr leaving czech team
+---
+Input: 46782437 2524633 933637329 843 234426 4683766368 427 247333 86 3733 7663 63 84347 524533 26672337
+Output: hostages claimed wednesday the afghan government has agreed to free some of their jailed comrades
+---
+Input: 52 693673 7833 367 46776737
+Output: jb oxford sued for improper
+---
+Input: 62244637 7335 8683 63 2663433623 2748427 729 843 78283 427 2336 866 78425 86 3627223
+Output: machines seek vote of confidence critics say the state has been too quick to embrace
+---
+Input: 5322666 25 72332 7877328 3437 787732833 25
+Output: lebanon al qaeda suspect dies suspected al
+---
+Input: 92824 5478 3333725
+Output: watch list federal
+---
+Input: 2742379 2667433733 42554287866 66837 7844378 26 46837625
+Output: bribery considered halliburton notes suggest an internal
+---
+Input: 537872536 486636 46 843 4292
+Output: jerusalem gunmen in the gaza
+---
+Input: 52637 53377 2287
+Output: james keeps cavs
+---
+Input: 87 68557 639
+Output: us mulls new
+---
+Input: 642767638 82537 5274378
+Output: microsoft takes largest
+---
+Input: 272945 263 86 879 86 76583 6853
+Output: brazil and un try to solve nuke
+---
+Input: 8636788628359 6678 63 87 4283 63837 468836
+Output: unfortunately most of us have never gotten
+---
+Input: 47274 338228466 63342425 545533 843 867 338228466 64647879 63342425 46
+Output: iraqi education official killed the top education ministry official in
+---
+Input: 7662642 72789 87267274787 22873 6887243 27 27 362863687 787767833 86 23 87267274787 63 867 53835
+Output: romania party transcripts cause outrage ap ap documents purported to be transcripts of top level
+---
+Input: 843 6683 927 24633 28 5646 625663
+Output: the move was aimed at john malone
+---
+Input: 235842 629 23
+Output: celtic may be
+---
+Input: 732663 7827837 7337 7473 46 7867243 7383683
+Output: second quarter sees rise in storage revenue
+---
+Input: 639 482 726
+Output: new gta san
+---
+Input: 6272 335297 354448
+Output: nasa delays flight
+---
+Input: 26436 638 3696 23587833 32764647 7473 639 9675 7388377 26436
+Output: amgen net down adjusted earnings rise new york reuters amgen
+---
+Input: 688825 3863 86837 7469 546487 86 242643 9436 267767283 2637422
+Output: mutual fund votes show limits to change when corporate america
+---
+Input: 22737 76937 929 86 8428679 34778 2263
+Output: cards power way to victory first came
+---
+Input: 38379663 56697 9428
+Output: everyone knows what
+---
+Input: 642767638 3972637 624637263 74824 642767638 47 397263464 7526 86 3729 624637263 287866377 86 9463697 367
+Output: microsoft expands mainframe pitch microsoft is expanding plan to draw mainframe customers to windows for
+---
+Input: 786257 363 444437
+Output: stocks end higher
+---
+Input: 288 9428 42773633 6398 526333 446 28 843 7877363 26878 94424 2667433733 933637329 9436 765423
+Output: but what happened next landed him at the supreme court which considered wednesday when police
+---
+Input: 767367826 3637 843 9327 9484
+Output: sorenstam ends the year with
+---
+Input: 843 7383684 5274378
+Output: the seventh largest
+---
+Input: 843 62537 63 2522523779 42634353
+Output: the maker of blackberry handheld
+---
+Input: 32666642 476984 94453
+Output: economic growth while
+---
+Input: 24726 75267 86
+Output: cisco plans to
+---
+Input: 7436367 86887 47372 548 566366 7436367 26668642284667 9455 23 843 34778 836367 86 27464 26
+Output: siemens touts hsdpa kit london siemens communications will be the first vendor to bring an
+---
+Input: 626 736836233 46 829 7243637
+Output: man sentenced in tax schemes
+---
+Input: 27696 427 48 368253 2683733
+Output: brown has it double covered
+---
+Input: 442577 87425 3352933 843 3283
+Output: hickss trial delayed the date
+---
+Input: 726826337 638 76277 66 26678637 2265464 78253
+Output: santander net soars on consumer banking stake
+---
+Input: 4727 34634647 75267
+Output: iraq findings plans
+---
+Input: 545359 6269 63 8447 7265 26853 7666 23 345464 843 242674667447 38746742 427 427359 222833
+Output: likely many of this rank could soon be filing the championship euphoria has hardly abated
+---
+Input: 753689 63 8425387 736246 469273
+Output: plenty of tickets remain howard
+---
+Input: 746427673 477837 2662 25378 746427673 427 477833 2668437 9276464 22688
+Output: singapore issues bomb alert singapore has issued another warning about
+---
+Input: 9265337 7482437 6453 6877462 47 74623 2328464
+Output: yankees pitcher mike mussina is since beating
+---
+Input: 4664 5664 4653464 53447528483 353284667
+Output: hong kong holding legislative elections
+---
+Input: 47274 64548268 47687
+Output: iraqi militant group
+---
+Input: 226232 2267 473365263 3276373 3474464 26287 7388377 7388377 226232 7243
+Output: canada bans greenland faroese fishing boats reuters reuters canada said
+---
+Input: 477235 75267 52743 72253 4292 673728466 477235
+Output: israel plans large scale gaza operation israel
+---
+Input: 5377667 24754637 226 53276 3766 727 9484688
+Output: lessons airlines can learn from pcs without
+---
+Input: 66837 78343 688
+Output: notes pudge out
+---
+Input: 263464 263 66784767 729 7763487 586733 46
+Output: boeing and northrop say profits jumped in
+---
+Input: 255835 2897 277387 3766 24648527
+Output: alltel buys assets from cingular
+---
+Input: 336627287 274842493 639 68378463 729 78537 267866
+Output: democrats criticize new overtime pay rules boston
+---
+Input: 9676 39756487 642767638 72824 29253 843 26372 9676 927 73532733 666329 663 329 233673 843
+Output: worm exploits microsoft patch cycle the bofra worm was released monday one day before the
+---
+Input: 27225464 629 744625 7278 92837 66 6277 6272 6277 76837 67767886489 427 36863 26 8687825
+Output: cracking may signal past water on mars nasa mars rover opportunity has found an unusual
+---
+Input: 78839 74697 46837663687 6736 768723 3627223 369367
+Output: study shows governments open source embrace dozens
+---
+Input: 287872542 267 7279
+Output: australia amp pasx
+---
+Input: 7676 46 24462 33284 29 7822377 82537 66 639 6326464 843 7436663666 63 7868 33284
+Output: porn in china death by success takes on new meaning the phenomenon of quot death
+---
+Input: 843 2666862363687 273 39732833 86
+Output: the announcements are expected to
+---
+Input: 367 24267 475 7223 327 3766 843 7487 565438 237426
+Output: for champ irl race far from the pits joliet adrian
+---
+Input: 843 673728677 63 843 665463 7296368 7378423
+Output: the operators of the online payment service
+---
+Input: 788626 2887 6673 78233377 788626 46837863687 937837329 7243 48 9455 3476477 2668437 367569337 46 2678
+Output: putnam cuts more staffers putnam investments yesterday said it will dismiss another employees in cost
+---
+Input: 627842 7839278 782787 774766 8376 87 543378953 4878 627842 7839278 234467 3483 66684 774766 8376
+Output: martha stewart starts prison term us lifestyle guru martha stewart begins five month prison term
+---
+Input: 26878 253277 929 367 26927 277325 62529742 867 26878 247337 86 738439 2677878466 2668428466 2424678
+Output: court clears way for anwar appeal malaysia top court agrees to review corruption conviction against
+---
+Input: 8942536426 776 26 48 927 39732833 86 23 748825 752844837 263 76 48 776833 27
+Output: twickenham pro am it was expected to be ritual slaughter and so it proved as
+---
+Input: 244722 63387 25247 86337 742369 63 4727 27 7446 63
+Output: chirac meets blair under shadow of iraq as sign of
+---
+Input: 3483 74822476 636
+Output: five pitcairn men
+---
+Input: 466334283 9673 66 2278258437 263
+Output: immediate word on casualties and
+---
+Input: 8244464 274646257 3262437 87878 738439 63 3532876642
+Output: tagging criminals damages trust review of electronic
+---
+Input: 2355 746637 26853
+Output: cell phones could
+---
+Input: 843 7246 63 4367437 7273687 263 2768437 47 4676774253 86 6327873 843 783337464 63 447
+Output: the pain of georges parents and brother is impossible to measure the suffering of his
+---
+Input: 88 27754228466 86
+Output: tv application to
+---
+Input: 23837 726366 8378464
+Output: after random testing
+---
+Input: 62873766 263 742727682 78676 4686 982 242674667447 7364 346257 567
+Output: mauresmo and sharapova storm into wta championship semi finals los
+---
+Input: 58343 7297 645673842 23428467 256678 7837453 867 58343 2228733 75626326
+Output: judge says milosevic behavior almost puerile top judge accused slobodan
+---
+Input: 6736 76872377 738658 2424678 642767638 26847726 7526
+Output: open sourcers revolt against microsoft antispam plan
+---
+Input: 2455466 936 6455466 3655277 288 48 288 487 367322787 248464
+Output: billion yen million dollars but it cut its forecasts citing
+---
+Input: 6387 289 688 534837 26687228 639 9675 69 776787 6389675 843 639 9675 6387 268448
+Output: mets buy out leiter contract new york ny sports network the new york mets bought
+---
+Input: 72547826 54657 5274647 86 47268464 46342 636 782887 725478267 77463 64647837 7428528 2949 7243 66
+Output: pakistan links kashmir to granting india mfn status pakistans prime minister shaukat aziz said on
+---
+Input: 986627382 3637 22774284
+Output: zvonareva ends capriati
+---
+Input: 4444378 52267 329 7867 774237 39732833 639 9675 7388377 732673
+Output: highest labor day pump prices expected new york reuters record
+---
+Input: 86 2254367642 273 26674337464 26 25837628483 3766
+Output: to california are considering an alternative from
+---
+Input: 2265 86487 4373
+Output: bank units here
+---
+Input: 66 39737463687 367 772237447663 2878 78826 843 626 234463 77493 946637 772237447663 7297 843 27238
+Output: no experiments for spaceshipone burt rutan the man behind prize winner spaceshipone says the craft
+---
+Input: 34778 625424687 84787 4682337 2355746637
+Output: first malicious virus invades cellphones
+---
+Input: 333363464 24267 688652 34637 47 668 8655 3733 284367 94453
+Output: defending champ mutola finds is not toll free athens while
+---
+Input: 94532287 8476844688 843 5278 66684
+Output: wildcats throughout the last month
+---
+Input: 733 428 877 73287489 367 3683777473 54689 733 428 3683777473 54689 873283 546487 469 6824
+Output: red hat ups security for enterprise linux red hat enterprise linux update limits how much
+---
+Input: 288 538 729 367 843 7253 63
+Output: but let say for the sake of
+---
+Input: 9436 265 8733 487 244 2562833 378489 86 289 8463 927637 843 2667269 6333733 8463
+Output: when aol used its big bloated equity to buy time warner the company offered time
+---
+Input: 2625978 628426 276659663
+Output: analyst nathan brookwood
+---
+Input: 3825 2673 426 7693772 86
+Output: dual core ibm powerpc to
+---
+Input: 222533 4683766368 7243
+Output: backed government said
+---
+Input: 843 3255 688 3766 84699 74276223884225 44268
+Output: the fall out from vioxx pharmaceutical giant
+---
+Input: 69 48 2336 943359 7732852833 8428 8245 44268 262966 96853
+Output: mw it been widely speculated that tail giant amazon would
+---
+Input: 43 7547733 226232 46 328687 63 84748464
+Output: he skipped canada in favour of visiting
+---
+Input: 7367537638 26273 966 634684283 82536837 9484 672253 7367537638 7763453 77638287
+Output: peoplesoft board won negotiate takeover with oracle peoplesoft profile products
+---
+Input: 75973 82537 8647 76389273 86 843 622 75973 52862433 8377466
+Output: skype takes voip software to the mac skype launched version
+---
+Input: 843 6388725 333 38637 7283 843 53835 28 94424 843
+Output: the neutral fed funds rate the level at which the
+---
+Input: 58527 4262537 66 2668437 27333377 287 8428679 9484 29374 47263
+Output: lukas gambles on another breeders cup victory with azeri grand
+---
+Input: 63 487 867 273348 47233 56937464 843 3784 62537 25277434228466 29 84733 6682437 2643 26623767
+Output: of its top credit grade lowering the drug maker classification by three notches amid concerns
+---
+Input: 843 2882257 8665 75223 46
+Output: the attacks took place in
+---
+Input: 3683777473 72 744763687 787664 46 6397322867 6397322867
+Output: enterprise pc shipments strong in newsfactor newsfactor
+---
+Input: 266686233 933637329 48 96853 528624 52837 8447
+Output: announced wednesday it would launch later this
+---
+Input: 772237447663 427 2573239 6233 48
+Output: spaceshipone has already made it
+---
+Input: 6274637 562233 667827 768637 28 732357 46 3255852 72887329 387464 3483 329 653 2772858 8428
+Output: marines lobbed mortar rounds at rebels in falluja saturday during five day old assault that
+---
+Input: 79742 2228733 477235
+Output: syria accused israel
+---
+Input: 67849 46637 53377 733 769 46737 25483 267866 7388377 32843
+Output: ortiz homer keeps red sox hopes alive boston reuters david
+---
+Input: 263 427 336667872833 843 2667269 34778 3825 2673 642767762377677 28 487 287846 83927 633423 843
+Output: amd has demonstrated the company first dual core microprocessors at its austin texas office the
+---
+Input: 267 86 738325 72537 36968876 62757 267
+Output: amp to reveal sales downturn marks amp
+---
+Input: 3767 46 645 683437 742737
+Output: drop in oil nudges shares
+---
+Input: 788626 86 729 86 738853 732 77623 788626 46837863687 9455
+Output: putnam to pay to settle sec probe putnam investments will
+---
+Input: 484437 335444833 9484 252252876 768377 36682255 2582 843 367637 768377 7874537 427 744633 896 9327
+Output: hughes delighted with blackburn rovers football club the former rovers striker has signed two year
+---
+Input: 255294 46537 63384647
+Output: allawi holds meetings
+---
+Input: 8463 256678 87 843 6245
+Output: time almost up the mail
+---
+Input: 9255 787338 738
+Output: wall street set
+---
+Input: 646677 4353 46 7726474 7676 79667 7726474
+Output: minors held in spanish porn swoop spanish
+---
+Input: 365527 4487 95 4444 87 936 645 3933 639 9675
+Output: dollar hits wk high vs yen oil eyed new york
+---
+Input: 63725 78377 87 77 22672446 23837 732255
+Output: merck steps up pr campagin after recall
+---
+Input: 373624 47687 73357 4867426 73223 786648 63 373624 77325464 6284667 9455 669 26623687283 66 843
+Output: french group seeks ivorian peace summit of french speaking nations will now concentrate on the
+---
+Input: 274747 46 4727 84373 66 48626489 843 733 27677 937837329 52862433 2547837464 288225 66 2684
+Output: crisis in iraq there no humanity the red cross yesterday launched blistering attack on both
+---
+Input: 42246 633377 632759 256 367 69526 5227 7388377 7388377 346262437 2275 42246 66 3743296333733 86
+Output: icahn offers nearly bln for mylan labs reuters reuters financier carl icahn on fridayoffered to
+---
+Input: 326643 38669 2226868464 326643 623 63959 3472683733 2226868464 278434237 26853 4483 5244464 733676 3336787 46
+Output: fannie funny accounting fannie mae newly discovered accounting artifices could give lagging reform efforts in
+---
+Input: 2692697 737738373 288 783784667 546437 478464 8439 63837 8724533 263
+Output: cowboys persevere but questions linger irving they never trailed and
+---
+Input: 24726 3529 67367 63896757 86 2882257 24726
+Output: cisco flaw opens networks to attacks cisco
+---
+Input: 3888737 76468 56937 87 78625 3888737 7646833
+Output: futures point lower us stock futures pointed
+---
+Input: 2424633 2278483 736397 7532 86 25247 2244323
+Output: chained captive renews plea to blair baghdad
+---
+Input: 7243 933637329 48 9455 289 843 92837 873286368 2667269 466427
+Output: said wednesday it will buy the water treatment company ionics
+---
+Input: 266 93 5669 9428 747229
+Output: com we know what piracy
+---
+Input: 737839 687427723 37668 74448 5478367 86 6874225 47687 28 843 84286742 263 252378 687386 46
+Output: pervez musharraf front right listens to musical group at the victoria and albert museum in
+---
+Input: 6377462 87738 532483 242674667 64526 77666833 74245426
+Output: messina upset league champions milan promoted sicilian
+---
+Input: 25247 36464 3837984464 566366 77463
+Output: blair doing everything london prime
+---
+Input: 843 38767326 86466
+Output: the european union
+---
+Input: 72 8283 86 5323 4658733 42953937 87
+Output: qb tate to lead injured hawkeyes vs
+---
+Input: 374329 7243 48 9455 25673 487 7257 34384 283683 8772253 3372786368 786737 46 52 56552
+Output: friday said it will close its saks fifth avenue upscale department stores in la jolla
+---
+Input: 466453 639 7764726
+Output: google new program
+---
+Input: 9486377 33337733 86
+Output: witness deferred to
+---
+Input: 83687 46 34625 737362 263 83687 94554267 3739 4686 67767483 425837 937837329 63 87 6736
+Output: venus in final serena and venus williams drew into opposite halves yesterday of us open
+---
+Input: 347639 34637 28937 63 738245 24246 73228287 65 347639 427 3325 86 7355 487 738245
+Output: disney finds buyer of retail chain secaucus nj disney has deal to sell its retail
+---
+Input: 3333725 26668642284667 2666477466 322 266686233
+Output: federal communications commission fcc announced
+---
+Input: 4726426 7275426368 27776837 8726486 3674246368 4726 7275426368 27776833 66 786329
+Output: iranian parliament approves uranium enrichment iran parliament approved on sunday
+---
+Input: 27696 3333637 283438 67846476 2748474 2426235567 467366 27696 427 336433
+Output: brown defends budget optimism british chancellor gordon brown has denied
+---
+Input: 2255 48 46 843 247
+Output: call it in the air
+---
+Input: 288 8428 668 843 2273 9484 843
+Output: but that not the case with the
+---
+Input: 697 263 235576884 26776728466 257 4283 247333 86 2278473 843
+Output: nys and bellsouth corporation bls have agreed to acquire the
+---
+Input: 628784 63 2254367642 946 77368
+Output: matsui of california who spent
+---
+Input: 38767326 9468377 26853 347277327 29 737678 7388377
+Output: european winters could disappear by report reuters
+---
+Input: 7265464 46 34847466
+Output: ranking in division
+---
+Input: 642767638 87377 22824 77423 27325 46 9428 23464 225533 747393 542367464 6683 642767638 5278 9335
+Output: microsoft users catch price break in what being called shrewd licensing move microsoft last week
+---
+Input: 96753 554676266 3626872433
+Output: world klinsmann encouraged
+---
+Input: 46837638 77333 462732737 27 48
+Output: internet speed increases as it
+---
+Input: 472747 273 7874464 24323 9484 7336767 263 467768363687 255294 8653 463426 765423 5455 2686879 6678
+Output: iraqis are pushing ahead with reforms and improvements allawi told indian police kill country most
+---
+Input: 737678 73683742 657 3325 9484
+Output: report renteria oks deal with
+---
+Input: 2769 73278487 39328833 46 4727 667827 54557 87 34756628 227822
+Output: army recruits executed in iraq mortar kills us diplomat baquba
+---
+Input: 23837 6736464 84733 78724448 567464 7327667 2744426 96864 927 39732833
+Output: after opening three straight losing seasons brigham young was expected
+---
+Input: 378462837 8428 87
+Output: estimates that up
+---
+Input: 26224 866 26844546
+Output: coach tom coughlin
+---
+Input: 72762528 2337 273348 784773 3987267346279 266647746637 367426 26634 427 34533
+Output: parmalat adds credit suisse extraordinary commissioner enrico bondi has filed
+---
+Input: 732 78377 87 77623 63 574779 57363 574779 57363 368446887 7243 937837329 8428 843 7328748437
+Output: sec steps up probe of krispy kreme krispy kreme doughnuts said yesterday that the securities
+---
+Input: 24462 63337 86 468378 26 46 76937 4363728466 24462 63337 86 468378 2455466 46 843
+Output: china needs to invest bn in power generation china needs to invest billion in the
+---
+Input: 676 772237 62537
+Output: msn spaces makes
+---
+Input: 25423 343 668 28 255 5453 843 8663 63 8447 736275 263 8468448 48 96853
+Output: alice did not at all like the tone of this remark and thought it would
+---
+Input: 37374 477 2739 7337 75327268 8747 3377483 454824 7388377 7388377
+Output: fresh iss crew sees pleasant trip despite glitch reuters reuters
+---
+Input: 466453 263 6694552 3473369 9675464
+Output: google and mozilla firefox working
+---
+Input: 27473 3247 786 263 5455
+Output: arise fair sun and kill
+---
+Input: 658 248 2924833 627327 33288 9455 2576
+Output: olt agt awaited nasdaq debut will also
+---
+Input: 7884377 2968442 567326 726733 63 437 764687
+Output: rutgers cynthia jordan scored of her points
+---
+Input: 786257 7368 7543464 66 7274 63 223
+Output: stocks sent sliding on rash of bad
+---
+Input: 2655467 7243377 27874 28222663377 6255263
+Output: collins raiders crush buccanneers oakland
+---
+Input: 27239 343 668 8876 843 2255 6837
+Output: brady did not turn the ball over
+---
+Input: 546337 4368537 8973 63 927 96753 63 92727238 47 627748359
+Output: kinder gentler type of war world of warcraft is massively
+---
+Input: 3683782466368 63549 263 68437 266726437
+Output: entertainment mflix and other companies
+---
+Input: 367237 263 864833 6284667 3245 86 4653 843 7464 26664 32284667 7878445464 367 76937 222673464
+Output: forces and united nations fail to hold the ring among factions struggling for power according
+---
+Input: 843 328 5239 3462559 74647 6596742 7823486
+Output: the fat lady finally sings olympic stadium
+---
+Input: 946482638 4772354 28867639 4363725 63622436 62989 7243
+Output: xinhuanet israeli attorney general menachem mazuz said
+---
+Input: 66542 75267 639 5444837 8377466
+Output: nokia plans new lighter version
+---
+Input: 3876886635 86 288 73784237 3876886635 47 86 288 843 7348527489
+Output: eurotunnel to cut services eurotunnel is to cut the regularity
+---
+Input: 43 423 227337
+Output: he had career
+---
+Input: 7663 77384687 7883437 36863 8428 74974225 22848489
+Output: some previous studies found that physical activity
+---
+Input: 768849378 633377 6455466 367 282 277387 843 6683 29 768849378 927 7446 63 843 26673848466
+Output: southwest offers million for ata assets the move by southwest was sign of the competition
+---
+Input: 24845 73782687 3223
+Output: civil servants face
+---
+Input: 36574467 629 23
+Output: dolphins may be
+---
+Input: 2455466 76863 82536837 27776224 367 843 643 227 566366 78625 39242643 3766 487 74825 33887243
+Output: billion pound takeover approach for the mid cap london stock exchange from its rival deutsche
+---
+Input: 76884376 2254367642 263
+Output: southern california and
+---
+Input: 427 44733 47687
+Output: has hired group
+---
+Input: 4663 56267 3355 5278 9335 27 9327 66784243 72837 7322433 84347 4444378 538357 46 66684
+Output: home loans fell last week as year mortgage rates reached their highest levels in month
+---
+Input: 332 536686 86 2278473 426 73776625 266788464 34847466 536686 47687 5464833 73776625 26678837 27263 46
+Output: dec lenovo to acquire ibm personal computing division lenovo group limited personal computer brand in
+---
+Input: 66 9336373297243 487 782783759 32764647 7673 66
+Output: on wednesdaysaid its quarterly earnings rose on
+---
+Input: 727537 77877 726 2686646 86
+Output: parker spurs san antonio to
+---
+Input: 743723 47 7273 649 73375467 5463222537 2686646 743723 927 4677377483
+Output: pierce is rare mix redskins linebacker antonio pierce was impressive
+---
+Input: 2878725426 76 62537
+Output: australian pm makes
+---
+Input: 367468836 7839278 78455 9248464 367 447 242623
+Output: forgotten stewart still waiting for his chance
+---
+Input: 38 86 47783 5278 242623 86 4726 66 6825327 75267
+Output: eu to issue last chance to iran on nuclear plans
+---
+Input: 843 748828466 629 668 23 6824 238837
+Output: the situation may not be much better
+---
+Input: 46342 2887 388437 27 463528466 4487 639
+Output: india cuts duties as inflation hits new
+---
+Input: 78726333 872835377 4673 367 238837 9328437 842657448464 329 2442246 6269
+Output: stranded travelers hope for better weather thanksgiving day chicago many
+---
+Input: 327845465 86 63337 3733 638 835374669 843 477 639 76389273
+Output: earthlink to offer free net telephony the isp new software
+---
+Input: 46273273 46 86825 2667269 72537
+Output: increase in total company sales
+---
+Input: 66 843 9255 47 3668 3424726 63 367637 8252 2275382255
+Output: on the wall is foot diagram of former ucla basketball
+---
+Input: 94363837 968 438
+Output: whenever you get
+---
+Input: 2684 843 2447 62537 46835 263 25673 76389273 7278637 642767638 273 36464 843 34789 9675
+Output: both the chip maker intel and close software partner microsoft are doing the dirty work
+---
+Input: 75246 34562537 38824 347328679 6233 34567 8428 7837846633 47526 38824 345662537 946 68872433 6362377 63
+Output: slain filmaker dutch directory made films that questioned islam dutch filmmaker who outraged members of
+---
+Input: 6398 367 7748283 77223354448 8687478 74477 23837 359464 782237738559 84733
+Output: next for private spaceflight tourist ships after flying successfully three
+---
+Input: 46 26878 3554766 4387 4364447 5426 4327464
+Output: in court ellison gets genghis khan hearing
+---
+Input: 25482542 6327 26552773 6327 22657878 25482542 4353 2782425 26687228 634684284667 9484 864667 737737368464 354448 2883632687
+Output: alitalia near collapse near bankrupt alitalia held crucial contract negotiations with unions representing flight attendants
+---
+Input: 48 927 843 5278 354448 63 6272 6372879 7764726 288
+Output: it was the last flight of nasa mercury program but
+---
+Input: 6455466 4648425 782542 63337464 84877329 46 86596 27 843 24462
+Output: million initial public offering thursday in tokyo as the china
+---
+Input: 749 545533 4658733 46 8532 2882257 48924284
+Output: six killed injured in ulfa attacks guwahati
+---
+Input: 366 2255 63 55 2255 968 668
+Output: don call me ll call you not
+---
+Input: 68676 737833 367
+Output: munro rested for
+---
+Input: 25846844 843 76389273 427 423 7663 66337283 7822377 642767638 73236859 266686233 623 8648 72537 423
+Output: although the software has had some moderate success microsoft recently announced mce unit sales had
+---
+Input: 642767638 263 46835
+Output: microsoft and intel
+---
+Input: 2455466 448 29 28773629 87267528466
+Output: billion hit by currency translation
+---
+Input: 26678837 72436237 4657
+Output: computer sciences inks
+---
+Input: 86 23 538 46 6284669433 2265 63
+Output: to be let go nationwide bank of
+---
+Input: 84373 9373 66 466334283 7376787 63 326243
+Output: there were no immediate reports of damage
+---
+Input: 8398453 476877 2255 367 546487 87 8398453 87233 476877 7243 937837329 8428 8439 96853 787783
+Output: textile groups call for limits us textile trade groups said yesterday that they would pursue
+---
+Input: 7367537638 287866377 367569337 93444 3325 672253 629 23 23532728464 487 5664 2924833 86466 9484 7367537638
+Output: peoplesoft customers employees weigh deal oracle may be celebrating its long awaited union with peoplesoft
+---
+Input: 73637 876677 86 4357 7445477463 35663 735433 4632682 74454774637 7388377
+Output: sends troops to help philippine flood relief infanta philippines reuters
+---
+Input: 2688 742737 33 52 4692
+Output: bout shapes de la hoya
+---
+Input: 86 87437 244437
+Output: un urges bigger
+---
+Input: 58 248 926533 47687 737678
+Output: lt bgt yankee group report
+---
+Input: 78625 3888737 93253633 66 933637329
+Output: stock futures weakened on wednesday
+---
+Input: 6272 335297 6224 354448 6272 6477466 26687655377 3324333 86 33529
+Output: nasa delays mach flight nasa mission controllers decided to delay
+---
+Input: 2254367642 566533 733737433 23837 428464
+Output: california looked refreshed after having
+---
+Input: 287872542 2444378 2475463 462732733 787242743 66 255 8425387 27 843
+Output: australia biggest airline increased surcharge on all tickets as the
+---
+Input: 2363268 76247 2668437
+Output: cendant snags another
+---
+Input: 426 274647 8649 327837 2447 86 76937
+Output: ibm brings unix faster chip to power
+---
+Input: 8468637 2425663 778767 768424453 78625 87 639 9675 7388377 843
+Output: vintner chalone spurns rothchild stock up new york reuters the
+---
+Input: 34252 73357 46837765 4357 46
+Output: dhaka seeks interpol help in
+---
+Input: 278624 329 367
+Output: crunch day for
+---
+Input: 6334225 78775437 4283 7827833 86 786 688
+Output: medical supplies have started to run out
+---
+Input: 52726373 633424257 66 84877329 463422833 8439 64448
+Output: japanese officials on thursday indicated they might
+---
+Input: 7835467 368377 665463
+Output: stelios enters online
+---
+Input: 2455466 46 829 3328 843 7877426 4683766368
+Output: billion in tax debt the russian government
+---
+Input: 23837 288363464 87246464 2267 263 7529464 46 84733 773732766 42637
+Output: after attending training camp and playing in three preseason games
+---
+Input: 46835 776348 87 6885665 732778737 627538 726 372624726 7388377 46835
+Output: intel profit up outlook reassures market san francisco reuters intel
+---
+Input: 26 3328 28 447 227466 28746377 366253 87867 47 86
+Output: bn debt at his casino business donald trump is to
+---
+Input: 773743368425 226343283 7362867 5646 53779 7866464 6283 367 47328 2274246 86 76583 843 3477883 6837
+Output: presidential candidate senator john kerry running mate for great bargain to solve the dispute over
+---
+Input: 843 27274 63 843 9463697 22733 7978367 8665 6678 63
+Output: the crash of the windows based systems took most of
+---
+Input: 3283 9255 97 32 77
+Output: dave wall wr db sr
+---
+Input: 87 2479297 787453 2837833 86845 639 9327 872835377 359464 87 2479297 387464 843 266464 46543297
+Output: us airways strike averted until new year travelers flying us airways during the coming holidays
+---
+Input: 436372572277687773333 799 673
+Output: generalsbcspotrssfeed szx ord
+---
+Input: 7243 666329 48 47 266464 688 9484 78483 63 73784237 24633 28 4357464 266726437 238837
+Output: said monday it is coming out with suite of services aimed at helping companies better
+---
+Input: 2462466284 2364257 78278372225 227766 725637 927 66 27882437 23837 786329 86 5677 86 843 639
+Output: cincinnati bengals quarterback carson palmer was on crutches after sunday to loss to the new
+---
+Input: 4444 8324 68876872464
+Output: high tech outsourcing
+---
+Input: 4726 26683787 8726486 46 33342623 63 86 66 72887329 2255464
+Output: iran converts uranium in defiance of un on saturday calling
+---
+Input: 85 876677 46 4727 6683 66784 843
+Output: uk troops in iraq move north the
+---
+Input: 6277 92837 8677 7243623 4666877 843 347268379 29 6272 7626842 768377 63 928379 7278 66
+Output: mars water tops science honours the discovery by nasa robotic rovers of watery past on
+---
+Input: 2484936 946 927 4353 29 843 64548279
+Output: citizen who was held by the military
+---
+Input: 2255464 3743637 263 735284837 5878
+Output: calling friends and relatives just
+---
+Input: 48 2263 3696 86 2668437 7468 28 843 289937 5278 64448 288 43 9276 2253
+Output: it came down to another shot at the buzzer last night but he wasn able
+---
+Input: 7243684787 46 6284667 86 78839 3474 27 27 7243684787 46
+Output: scientists in nations to study fish ap ap scientists in
+---
+Input: 46835 86 7447 3825 2673 9366 46 2667269 336437 843 2447 427 2336 3352933 288
+Output: intel to ship dual core xeon in company denies the chip has been delayed but
+---
+Input: 2522262 946 6837 242756883 66
+Output: alabama win over charlotte on
+---
+Input: 843 7353273 63 7868 535 73562333 7868 47 84633 86
+Output: the release of quot jfk reloaded quot is timed to
+---
+Input: 843 34448 63 447 5433 843 76667687 86423 47 32645427
+Output: the fight of his life the sonorous voice is familiar
+---
+Input: 94453 843 844377 5678 33247466
+Output: while the tigers lost decision
+---
+Input: 72537846426 3353428466 86 84748 26628673
+Output: palestinian delegation to visit comatose
+---
+Input: 222673464 86 843 27 87 87327879 732738279 5646 7669 263 437626 3462623 64647837 4267 342435
+Output: according to the ap us treasury secretary john snow and german finance minister hans eichel
+---
+Input: 84473 7827837 927 4663 36 968 9268
+Output: third quarter was good do you want
+---
+Input: 638232 73265377 8683 843 7822377 63 5278 9335 7746279 35328466
+Output: nevada seamless vote the success of last week primary election
+---
+Input: 2583 24477 633
+Output: blue chips off
+---
+Input: 442622756 3474243552 9455 8378 843 7362858 367 843 34778 8463 6398 933637329 263 437 727464
+Output: giancarlo fisichella will test the renault for the first time next wednesday and hes raring
+---
+Input: 58 248 826268837 27 9484 447 2772858 87425 738 86 78278 46 3922859 66684 737678
+Output: lt bgt vancouver cp with his assault trial set to start in exactly month report
+---
+Input: 873283 864833 36646466 2897 656 46637 742737 3255 864833 36646466
+Output: update united dominion buys mln homes shares fall united dominion
+---
+Input: 26647377 22257 27225 3696 66 84336 8693877 29 546 227267
+Output: congress backs crack down on video voyeurs by jim abrams
+---
+Input: 7243 374329 48 9455 288
+Output: said friday it will cut
+---
+Input: 27 39 482836252 532337 548464 46 639426
+Output: ap ex guatemala leader living in mexico
+---
+Input: 6424235 6936 6878 23 966337464 9428 255 843 3877 927
+Output: michael owen must be wondering what all the fuss was
+---
+Input: 65 9727 7672 4487 84 46637 2827 3254773 278767 639
+Output: nl wrap sosa hits th homer cubs eclipse astros new
+---
+Input: 288 27693 63 46782437 735284837 5337464 84445
+Output: but crowd of hostages relatives keeping vigil
+---
+Input: 227346257 867 3634377 86 946 65 737437 567 2643537 252378
+Output: cardinals top dodgers to win nl series los angeles albert
+---
+Input: 79477 4678737 73557 85 5433 8648 79477 5433 79489375263 5274378
+Output: swiss insurer sells uk life unit swiss life switzerland largest
+---
+Input: 7243 937837329 8428 48 47
+Output: said yesterday that it is
+---
+Input: 786 7388537 5282 7848 9484 56325 786 66 84877329 266686233
+Output: sun settles java suit with kodak sun on thursday announced
+---
+Input: 645 6837 66 946837 3835
+Output: oil over on winter fuel
+---
+Input: 7868 843 426642 5437 72782 8428 427 6233 63258463 327437 367 268685377 26374226 32645437 367
+Output: quot the iconic kids pasta that has made mealtime easier for countless american families for
+---
+Input: 94554267 9455464 86 9248 367 288866 94554267 4283 7338733 86
+Output: williams willing to wait for button williams have refused to
+---
+Input: 762 639 9675 34767 873
+Output: rnc new york firms use
+---
+Input: 78335377 9466464 843 653 327446633 929 8439 76863 48 7488728744 9436 7488728744 26224 2455 269437
+Output: steelers winning the old fashioned way they pound it pittsburgh when pittsburgh coach bill cowher
+---
+Input: 777468 722 46
+Output: sprint sbc in
+---
+Input: 4264859 226633 367 72 8378 737437 46342 2278246 768728 4264859 9455 6477 843 8378 737437
+Output: ganguly banned for sa test series india captain sourav ganguly will miss the test series
+---
+Input: 77423 2887 776735
+Output: price cuts propel
+---
+Input: 76884376 2254367642 96853 242643 73723784667 63 8447 9327 465437 46
+Output: southern california would change perceptions of this year hokies in
+---
