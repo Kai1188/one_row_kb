@@ -1,3 +1,5 @@
+# TODO: Add more evaluation metrics, such as...
+
 from pathlib import Path
 from .one_row_keyboard_model import OneRowKeyboardModel, ModelEvaluator
 
